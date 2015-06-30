@@ -12,4 +12,4 @@ Take sanpshots of faces that start your laptop/PC.
 
 
 
-#####Thanks to Ted Burke
+#######Thanks to Ted Burke
