@@ -9,3 +9,7 @@ Take sanpshots of faces that start your laptop/PC.
 2. `Startup.bat` - To Startup the application at Windows startup.
 3. `Looper.bat` - To capture multiple snaps in a loop
 4. `Invisible.vbs` - To make the execution of `Looper.bat` invisible.
+
+
+
+#####Thanks to Ted Burke
