@@ -1,3 +1,5 @@
+![CommandCam Scripts](Resources/spy.gif)
+
 # CommandCam-Support-Scripts
 A few support scripts which can be used to make CommandCam a `Swiss Knife`.
 
