@@ -3,7 +3,7 @@
 # CommandCam-Support-Scripts
 A few support scripts which can be used to make CommandCam a `Swiss Knife`.
 
-Take sanpshots of faces that start your laptop/PC.
+Take snapshots of faces that start your laptop/PC.
 
 ###Requirements:
 
