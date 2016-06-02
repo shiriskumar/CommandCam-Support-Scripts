@@ -12,6 +12,7 @@ Take snapshots of faces that start your laptop/PC.
 3. `Looper.bat` - To capture multiple snaps in a loop
 4. `Invisible.vbs` - To make the execution of `Looper.bat` invisible.
 
-
+####Suggestion:
+Place all the above mentioned files in a Signed-in Online Drive folder that automatically syncs acrossall the snapshots.
 
 #######Thanks to Ted Burke
