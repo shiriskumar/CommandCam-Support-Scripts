@@ -13,6 +13,6 @@ Take snapshots of faces that start your laptop/PC.
 4. `Invisible.vbs` - To make the execution of `Looper.bat` invisible.
 
 ####Suggestion:
-Place all the above mentioned files in a Signed-in Online Drive folder that automatically syncs acrossall the snapshots.
+Place all the above mentioned files in a Signed-in Online Drive folder that automatically syncs across all the snapshots.
 
 #######Thanks to Ted Burke
