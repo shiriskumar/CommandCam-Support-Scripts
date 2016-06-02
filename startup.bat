@@ -1,1 +1,1 @@
-wscript.exe "D:\Google Drive\Image\invisible.vbs" "D:\Google Drive\Image\Looper.bat"
+wscript.exe "YOUR_Online_Drive_Location\Image\invisible.vbs" "YOUR_Online_Drive_Location\Image\Looper.bat"
