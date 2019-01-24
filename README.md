@@ -15,4 +15,4 @@ Take snapshots of faces that start your laptop/PC.
 #### Suggestion:
 Place all the above mentioned files in a Signed-in Online Drive folder that automatically syncs across all the snapshots.
 
-####### Thanks to Ted Burke
+###### Thanks to Ted Burke
